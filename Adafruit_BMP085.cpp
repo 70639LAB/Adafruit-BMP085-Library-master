@@ -1,5 +1,5 @@
 /*************************************************** 
-  This is a library for the Adafruit BMP085/BMP180 Barometric Pressure + Temp sensor
+  y for the Adafruit BMP085/BMP180 Barometric Pressure + Temp sensor
 
   Designed specifically to work with the Adafruit BMP085 or BMP180 Breakout 
   ----> http://www.adafruit.com/products/391
